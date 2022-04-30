@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392750957110",
+    "project_id": "sriwijaya-166a2",
+    "storage_bucket": "sriwijaya-166a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392750957110:android:093567596607f06a14ce97",
+        "android_client_info": {
+          "package_name": "com.akbar76.sriwijaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392750957110-so7akqmci7i0g4phgce2q78of5l6f6v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8GU3s-XPm-dB0xfn-1bdDVaKi0MeTPTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392750957110-so7akqmci7i0g4phgce2q78of5l6f6v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
